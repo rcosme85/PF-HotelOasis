@@ -1,0 +1,35 @@
+/* AboutUs.module.css */
+
+.about-us {
+    padding: 20px;
+    
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.text {
+    margin-bottom: 10px;
+}
+
+.mission-list {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.mission-item {
+    margin-bottom: 5px;
+}
+
+.map-container {
+    width: 100%;
+    max-width: 600px; /* Ajusta el ancho máximo según tus preferencias */
+    height: 200px; /* Ajusta la altura según tus preferencias */
+    margin: 0 auto;
+    margin-bottom: 200px;
+  }

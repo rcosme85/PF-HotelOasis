@@ -1,0 +1,75 @@
+/* LoginForm.module.css */
+
+.loginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f6fa;
+  }
+  
+  .loginBox {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 300px;
+  }
+  
+  .loginTitle {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .inputContainer {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #333333;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  }
+  
+  .error {
+    color: #e53e3e;
+    margin-top: 5px;
+  }
+  
+  .buttonContainer {
+    text-align: center;
+  }
+  
+  .button {
+    background-color: #388cda; /* Color de fondo azul del botón */
+    color: #388cda; /* Color del texto en el botón */
+    padding: 10px 20px; /* Espacio interno */
+    font-size: 16px; /* Tamaño de fuente */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes curvos */
+    cursor: pointer; /* Cambiar el cursor al pasar por encima */
+  }
+  
+  .createAccount {
+    margin-top: 10px;
+  }
+  
+  .createAccountLink {
+    
+    background-color: rgb(81, 165, 193);
+  color: #ffffff;
+  padding: 10px 20px; 
+  font-size: 16px; 
+  border: none; 
+  border-radius: 5px; /* Bordes curvos */
+  cursor: pointer; 
+  }
+  

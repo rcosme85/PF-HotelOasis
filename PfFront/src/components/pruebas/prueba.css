@@ -1,0 +1,11 @@
+.star {
+    font-size: 24px;
+    color: #ccc; /* Color de estrella vacía */
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .star.filled {
+    color: gold; /* Cambia el color cuando la estrella está llena */
+  }
+  

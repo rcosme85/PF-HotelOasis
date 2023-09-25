@@ -1,0 +1,6 @@
+.paginado button{
+@apply mx-2 bg-slate-300 px-1 rounded-md
+}
+.active{
+ @apply text-sky-950 font-bold
+}
